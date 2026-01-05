@@ -14,4 +14,4 @@ An interactive Excel dashboard analyzing retail sales across states, customer se
 ## Goal
 Strengthen data analytics and business insight skills through real-world reporting.
 
-![Dashboard Preview](Vrinda Dashboard Preview-1.png)
+![Dashboard Preview](https://github.com/hirenvf8/Excel---sales---dashboard/blob/30620e1df7bf5661fb85308bc3ef639c47a5123c/Vrinda%20Dashboard%20Preview-1.png)
